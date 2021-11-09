@@ -1,0 +1,10 @@
+producer.topics: 
+  client1: topic-A
+  client2: topic-B
+  client3: topic-C
+  client4: topic-D
+  client5: topic-E
+  client6: topic-F
+  client7: topic-g
+  client8: topic-h
+  client9: topic-x
